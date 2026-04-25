@@ -1,3 +1,6 @@
+<img width="1417" height="799" alt="Executive Overview" src="https://github.com/user-attachments/assets/6dc44887-ee47-45a0-a01b-7cdf222880e9" />
+<img width="1416" height="798" alt="Detailed Analysis" src="https://github.com/user-attachments/assets/1bbd18eb-eaaa-4482-aff6-3dbaed235c81" />
+
 📊 Power BI Sales Performance Assessment Dashboard
 📌 Overview
 This project presents a comprehensive Sales Performance Analysis Dashboard built using Power BI. It focuses on delivering actionable insights through executive-level summaries and detailed analytical views of sales, profit, growth trends, and brand performance.
